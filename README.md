@@ -1,1 +1,1 @@
-https://and2x.github.io/rsschool-cv/cv 
+https://and2x-JSFELT2022Q3.github.io/rsschool-cv/cv 
